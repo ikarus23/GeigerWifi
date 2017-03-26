@@ -1,0 +1,3 @@
+SSID = "Geiger Wifi"
+PASSWORD = "12345678"
+AUTH = wifi.OPEN
