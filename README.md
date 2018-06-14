@@ -19,7 +19,7 @@ Requirements
 ------------
 
 * A [MightyOhm Geiger Counter](http://mightyohm.com/blog/products/geiger-counter/) kit.
-* A cheap I2C-based OLED display [like this one from Amazon](TODO).
+* A cheap I2C-based OLED display [like this one from Amazon](https://www.amazon.com/dp/B06XRBTBTB/).
 * An ESP8266 SoC running the [NodeMcu firmware](http://nodemcu.com/).
   I used the [WeMos D1 Mini](https://www.wemos.cc/product/d1-mini.html).
 * Some wires, pin headers, etc.
